@@ -23,7 +23,7 @@ def portScanner(targetHost,targetPort):
             print("Connection is break")
             break
 
-targetHost= "172.67.134.212"
+targetHost= " " #Write Your Host
 targetPort=[80,8080,23,22,21,3389,95,93,995,444,443]
 
 portScanner(targetHost,targetPort)
